@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^20.5.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Stone, paper & scissors game",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talha Khalid",
+  "license": "ISC"
+}
